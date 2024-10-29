@@ -11,21 +11,21 @@ The Master of Science in Cybersecurity and Information Assurance at the Universi
 - **CAE Designation**: The University of Detroit Mercy has been designated as a Center of Academic Excellence in Cyber Defense (CAE-CD) since 2004, maintaining this designation through rigorous curriculum review by national experts.
 
 ### Curriculum
-The program consists of eight core courses and two electives, totaling 30 credit hours. Here are the courses I completed:
+The program consists of eight core courses and two electives, here are the courses I completed:
 
 #### Core Courses
-- CYBE 5700 Principles of Cybersecurity (3 credits)
-- CYBE 5730 Cyberlaw (3 credits)
-- CYBE 5740 Secure Acquisition (3 credits)
-- CYBE 5750 Cybersecurity Technologies (3 credits)
-- CYBE 5770 Cyber Defense Operations (3 credits)
-- CYBE 5780 Risk Management Processes (3 credits)
-- CYBE 5790 Cybersecurity Control Processes (3 credits)
-- CYBE 5910 Information Audit (3 credits)
+- CYBE 5700 Principles of Cybersecurity
+- CYBE 5730 Cyberlaw 
+- CYBE 5740 Secure Acquisition
+- CYBE 5750 Cybersecurity Technologies
+- CYBE 5770 Cyber Defense Operations
+- CYBE 5780 Risk Management Processes
+- CYBE 5790 Cybersecurity Control Processes
+- CYBE 5910 Information Audit
 
 #### Electives
-- CYBE 5580 System Forensics (3 credits)
-- CYBE 5800 Special Topics in Cybersecurity (3 credits)
+- CYBE 5580 System Forensics
+- CYBE 5800 Data Mining for Cybersecurity
 
 ## Contents
 The projects in this directory include:
