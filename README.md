@@ -1,6 +1,6 @@
 # My Professional Portfolio
 
-## Overview
+## Hi, I'm Lorrin,
 Welcome to my professional portfolio! This repository showcases a collection of projects and activities I have completed as part of my education and professional development in cybersecurity and information assurance. The projects are organized into two main categories: Cyber Projects and Programming Projects.
 
 ## Directory Structure
