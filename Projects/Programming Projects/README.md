@@ -6,7 +6,7 @@ This directory contains a collection of programming projects that demonstrate my
 ## Projects
 
 ### 1. Python Password Strength Checker and Generator 
-**Description**: Create a Python tool to check the strength of passwords and generate strong, secure passwords.
+**Description**: Created a Python tool to check the strength of passwords and generate strong, secure passwords.
 
 **Technologies**: Python
 
@@ -16,7 +16,7 @@ This directory contains a collection of programming projects that demonstrate my
 - User input validation
 
 ### 2. Network Scanner and Monitoring Tool 
-**Description**: Develop a network scanner and monitoring tool to identify devices on a network and monitor network traffic for suspicious activity.
+**Description**: Developed a network scanner and monitoring tool to identify devices on a network and monitor network traffic for suspicious activity.
 
 **Technologies**: Networking, Python
 
@@ -26,7 +26,7 @@ This directory contains a collection of programming projects that demonstrate my
 - Data analysis and reporting
 
 ### 3. SQL Injection Detection and Prevention 
-**Description**: Develop a tool to detect and prevent SQL injection attacks, securing web applications against this common threat.
+**Description**: Developed a tool to detect and prevent SQL injection attacks, securing web applications against this common threat.
 
 **Technologies**: SQL, Python, Web Security
 
@@ -36,7 +36,7 @@ This directory contains a collection of programming projects that demonstrate my
 - Secure coding practices
 
 ### 4. Cryptographic Analysis Tool 
-**Description**: Develop a tool to analyze and implement various cryptographic algorithms, ensuring data security and integrity.
+**Description**: Created a tool to analyze and implement various cryptographic algorithms, ensuring data security and integrity.
 
 **Technologies**: Cryptography, Python
 
@@ -46,7 +46,7 @@ This directory contains a collection of programming projects that demonstrate my
 - Data security and encryption
 
 ### 5. Cloud Security Monitoring and Backup Automation Tool 
-**Description**: Develop a tool to monitor cloud environments for security threats and automate the backup of critical data.
+**Description**: Developed a tool to monitor cloud environments for security threats and automate the backup of critical data.
 
 **Technologies**: Cloud Security, Backup Automation, Python
 
