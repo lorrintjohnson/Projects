@@ -6,8 +6,15 @@ Welcome to my professional portfolio! This repository showcases a collection of 
 ## Directory Structure
 - **Projects**
   - **Cyber Projects**
-    - **Google Case Studies** 
+    - **Google Case Studies**
+      - **Incident Investigation and Response**
+      - **Network Security Lab**
+      - **Threat Detection Exercise**
+      - **Security Operations Case Study**
     - **Information Assurance Projects**
+      - **x**: x
+      - **Risk Management Case Study**
+      - **Cyber Defense Operations**
   - **Programming Projects** 
     - **Python Password Strength Checker and Generator**
     - **Network Scanner and Monitoring Tool**
