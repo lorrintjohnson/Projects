@@ -10,7 +10,7 @@ Welcome to my professional portfolio! This repository showcases a collection of 
   - **Cyber Projects**
     - **Google Case Studies** - A collection of labs and activities from the Google Cybersecurity Professional Certificate.
     - **Information Assurance Projects** - Projects and labs from my Master of Science in Cybersecurity and Information Assurance at the University of Detroit Mercy.
-  - **Programming Projects** - Various programming projects demonstrating my skills in software development and coding.
+  - **Programming Projects** 
     - **Python Projects**
     - **SQL Projects**
   
