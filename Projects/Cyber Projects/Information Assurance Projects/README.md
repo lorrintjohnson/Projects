@@ -30,19 +30,11 @@ The program consists of eight core courses and two electives, here are the cours
 ## Contents
 The projects in this directory include:
 
-1. **Incident Investigation and Response**:
-   - Analyzing a suspicious file using VirusTotal.
-   - Documenting Indicators of Compromise (IoCs) using the Pyramid of Pain.
-
-2. **Network Security Lab**:
-   - Configuring firewalls and intrusion detection systems.
-   - Monitoring network traffic for suspicious activity.
-
-3. **Risk Management Case Study**:
+1. **Risk Management Case Study**:
    - Implementing risk management processes.
    - Conducting risk assessments and developing mitigation strategies.
 
-4. **Cyber Defense Operations**:
+2. **Cyber Defense Operations**:
    - Managing cyber defense operations within a simulated environment.
    - Responding to various security incidents and ensuring system integrity.
 
