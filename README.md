@@ -7,19 +7,19 @@ Welcome to my professional portfolio! This repository showcases a collection of 
 - **Projects**
   - **Cyber Projects**
     - **Google Case Studies**
-      - **Incident Investigation and Response**
-      - **Network Security Lab**
-      - **Threat Detection Exercise**
-      - **Security Operations Case Study**
+      - Incident Investigation and Response
+      - Network Security Lab
+      - Threat Detection Exercise
+      - Security Operations Case Study
     - **Information Assurance Projects**
-      - **x**: x
-      - **Risk Management Case Study**
-      - **Cyber Defense Operations**
+      - x: x
+      - Risk Management Case Study
+      - Cyber Defense Operations
   - **Programming Projects** 
-    - **Python Password Strength Checker and Generator**
-    - **Network Scanner and Monitoring Tool**
-    - **SQL Injection Detection and Prevention**
-    - **Cryptographic Analysis Tool**
-    - **Cloud Security Monitoring and Backup Automation Tool**
+    - Python Password Strength Checker and Generator
+    - Network Scanner and Monitoring Tool
+    - SQL Injection Detection and Prevention
+    - Cryptographic Analysis Tool
+    - Cloud Security Monitoring and Backup Automation Tool
 
   
