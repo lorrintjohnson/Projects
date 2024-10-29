@@ -1,0 +1,3 @@
+Backdoors: Tools for establishing command and control (C2).
+Password Crackers: Tools for gaining access to credentials.
+Malicious Document Creators: Tools for creating spearphishing documents.
