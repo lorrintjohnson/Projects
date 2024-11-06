@@ -33,7 +33,14 @@ The projects in this directory include:
 1. **Cybersecurity Risk Management Case Study**:
    - Implementing a comprehensive cybersecurity control framework.
    - Conducting asset identification, threat assessment, and risk prioritization.
-   - Developing and deploying control baselines to protect organizational assets. 
+   - Developing and deploying control baselines to protect organizational assets.
+  
+2. **Security Awareness Projects**:
+   - Identifying and mitigating insider threats through risk assessment and best practices.
+   - Enhancing mobile device security by implementing best practices and educating employees.
+   - Included projects:
+        - Cybersecurity Insider Threats Infographic
+        - Mobile Device Security PowerPoint
 <!-- 
 2. **Cyber Defense Operations**:
    - Managing cyber defense operations within a simulated environment.
