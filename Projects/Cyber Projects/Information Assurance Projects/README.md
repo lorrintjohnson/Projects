@@ -26,7 +26,7 @@ The program consists of eight core courses and two electives, here are the cours
 #### Electives
 - CYBE 5580 System Forensics
 - CYBE 5800 Data Mining for Cybersecurity
-
+<!-- 
 ## Contents
 The projects in this directory include:
 
@@ -36,6 +36,6 @@ The projects in this directory include:
 
 2. **Cyber Defense Operations**:
    - Managing cyber defense operations within a simulated environment.
-   - Responding to various security incidents and ensuring system integrity.
+   - Responding to various security incidents and ensuring system integrity. -->
 
 
