@@ -22,12 +22,12 @@ The case studies in this directory include:
 2. **Threat Detection and Response**:
    - Investigating a suspicious domain using Chronicle to identify phishing activities.
    - Documenting Indicators of Compromise (IoCs) through detailed analysis of threat intelligence data, affected assets, and resolved IP addresses.
-
+<!-- 
 3. **Network Security Lab**:
    - Configuring firewalls and intrusion detection systems.
    - Monitoring network traffic for suspicious activity.
   
 4. **Security Operations Case Study**:
    - Managing security operations within a simulated environment.
-   - Responding to various security incidents and ensuring system integrity.
+   - Responding to various security incidents and ensuring system integrity. -->
 
