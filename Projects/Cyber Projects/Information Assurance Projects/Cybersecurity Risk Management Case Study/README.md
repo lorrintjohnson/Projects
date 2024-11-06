@@ -11,14 +11,14 @@ You are a security analyst at a financial services company. Your task is to deve
 ### 1. Asset Identification and Threat Assessment
 - **Objective**: Compile a comprehensive list of organizational assets, determine the level of threat for each asset, and identify constraints on protection.
 - **Steps**:
-  - a. **List Organizational Assets**: Identify assets such as employee information, customer information, operational processes, policies and standards, application assets, data storage, and hardware devices.
+    a. **List Organizational Assets**: Identify assets such as employee information, customer information, operational processes, policies and standards, application assets, data storage, and hardware devices.
   - b. **Identify Potential Threats**: Focus on human factors, including insider threats (intentional and unintentional) and external threats (moles).
   - c. **Prepare a Threat Model**: Conduct regular risk assessments, provide security awareness training, manage accounts and privileges, perform penetration testing, and implement continuous monitoring.
 - **Outcome**: A detailed inventory of assets and threats, along with a threat model that assigns criticality scores to each threat.
 
 ### 2. Prioritization
 - **Objective**: Define the scope of control deployment and prioritize assets based on risk analysis.
-- **Steps**:
+1. **Steps**:
   - a. **Decide on Assets to Protect**: Based on the risk analysis, determine which assets need protection.
   - b. **Create a Prioritized List**: Categorize assets into "must protect," "should protect," and "would like to protect" based on their criticality.
   - c. **Design Defense-in-Depth Control Structure**: Implement multiple layers of security controls to ensure comprehensive protection.
