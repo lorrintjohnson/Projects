@@ -48,7 +48,7 @@ You are a security analyst at a financial services company. You receive an alert
 - **Assets Accessed**: 6 assets. Refer to Assets.csv.
 - **Resolved IP Address**: signin.office365x24.com resolves to the IP address 40.100.174.34.
 - **POST Requests to IP address 40.100.174.34**: 3 POST requests were made to 40.100.174.34 . This indicates that sensitive information was submitted to the login page such as login credentials.
-- **Target URL**: The POST requests were sent to http://signin.office365x24.com/login.php.
+- **Target URL**: The POST requests were sent to signin.office365x24.com/login.php.
 - **Resolved Domains**: 40.100.174.34 resolves to both signin.accounts-gooqle.com and signin.office365x24.com.
 
 ## Conclusion
