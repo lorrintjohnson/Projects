@@ -1,0 +1,94 @@
+alphaMountain.ai: phishing
+Antiy-AVL: malicious
+BitDefender: phishing
+CRDF: malicious
+CyRadar: malicious
+Fortinet: phishing
+G-Data: phishing
+Kaspersky: phishing
+Lionic: phishing
+Seclookup: malicious
+Sophos: phishing
+Webroot: malicious
+Acronis: Undetected
+Abusix: Undetected
+ADMINUSLabs: Undetected
+Criminal IP: Undetected
+AILabs (MONITORAPP): Undetected
+AlienVault: Undetected
+benkow.cc: Undetected
+Blueliv: Undetected
+Certego: Undetected
+Chong Lua Dao: Undetected
+CINS Army: Undetected
+Snort IP sample list: Undetected
+CMC Threat Intelligence: Undetected
+Cyble: Undetected
+DNS8: Undetected
+Dr.Web: Undetected
+ESET: Undetected
+ESTsecurity: Undetected
+EmergingThreats: Undetected
+Emsisoft: Undetected
+Forcepoint ThreatSeeker: Undetected
+Google Safebrowsing: Undetected
+GreenSnow: Undetected
+Heimdal Security: Undetected
+IPsum: Undetected
+Juniper Networks: Undetected
+MalwarePatrol: Undetected
+Malwared: Undetected
+OpenPhish: Undetected
+Phishing Database: Undetected
+Phishtank: Undetected
+PREBYTES: Undetected
+Quick Heal: Undetected
+Quttera: Undetected
+Scantitan: Undetected
+SCUMWARE.org: Undetected
+Spam404: Undetected
+StopForumSpam: Undetected
+Sucuri SiteCheck: Undetected
+ThreatHive: Undetected
+Threatsourcing: Undetected
+Trustwave: Undetected
+URLhaus: Undetected
+Viettel Threat Intelligence: Undetected
+VX Vault: Undetected
+ViriBack: Undetected
+Yandex Safebrowsing: Undetected
+ZeroCERT: Undetected
+desenmascara.me: Undetected
+malwares.com URL checker: Undetected
+securolytics: Undetected
+0xSI_f33d: Undetected
+Axur: Undetected
+AlphaSOC: Undetected
+ArcSight Threat Intelligence: Undetected
+AutoShun: Undetected
+Bfore.Ai PreCrime: Undetected
+Bkav Pro: Undetected
+Cluster25: Undetected
+CSIS Security Group: Undetected
+Cyan: Undetected
+Ermes: Undetected
+GCP Abuse Intelligence: Undetected
+Gridinsoft: Undetected
+Hunt.io Intelligence: Undetected
+Lumu: Undetected
+MalwareURL: Undetected
+Netcraft: Undetected
+PhishFort: Undetected
+PhishLabs: Undetected
+PrecisionSec: Undetected
+SafeToOpen: Undetected
+Sansec eComscan: Undetected
+SecureBrain: Undetected
+Segasec: Undetected
+SOCRadar: Undetected
+Underworld: Undetected
+URLQuery: Undetected
+VIPRE: Undetected
+Xcitium Verdict Cloud: Undetected
+zvelo: Undetected
+ZeroFox: Undetected
