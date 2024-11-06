@@ -19,14 +19,14 @@ The case studies in this directory include:
    - Analyzing a suspicious file using VirusTotal.
    - Documenting Indicators of Compromise (IoCs) using the Pyramid of Pain.
 
-2. **Network Security Lab**:
+2. **Threat Detection and Response**:
+   - Investigating a suspicious domain using Chronicle to identify phishing activities.
+   - Documenting Indicators of Compromise (IoCs) through detailed analysis of threat intelligence data, affected assets, and resolved IP addresses.
+
+3. **Network Security Lab**:
    - Configuring firewalls and intrusion detection systems.
    - Monitoring network traffic for suspicious activity.
-
-3. **Threat Detection Exercise**:
-   - Using security tools to detect and analyze potential threats.
-   - Implementing mitigation strategies to protect against identified threats.
-
+  
 4. **Security Operations Case Study**:
    - Managing security operations within a simulated environment.
    - Responding to various security incidents and ensuring system integrity.
