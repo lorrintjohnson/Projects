@@ -17,6 +17,7 @@ This directory contains a collection of cybersecurity projects and activities th
 
 **Projects**:
 - **Cybersecurity Risk Management Case Study**: Identifying and assessing threats to organizational assets, prioritizing risks, and deploying appropriate controls.
+- **Security Awareness Projects**: Addressing insider threats and mobile device security through identification, risk assessment, and implementation of best practices to safeguard organizational assets.
 <!-- 
 - **x**: xx
 - **Risk Management Case Study**: Implementing risk management processes and conducting risk assessments.
