@@ -15,8 +15,9 @@ This directory contains a collection of cybersecurity projects and activities th
 ### 2. Information Assurance Projects
 **Description**: Projects and labs from my Master of Science in Cybersecurity and Information Assurance at the University of Detroit Mercy, demonstrating advanced knowledge in cybersecurity management, risk assessment, and defense strategies.
 
-<!-- **Projects**:
-- **x**: xx
+**Projects**:
+- **Cybersecurity Risk Management Case Study**: Identifying and assessing threats to organizational assets, prioritizing risks, and deploying appropriate controls.
+<!-- 
 - **x**: xx
 - **Risk Management Case Study**: Implementing risk management processes and conducting risk assessments.
 - **Cyber Defense Operations**: Managing cyber defense operations and responding to security incidents. -->
