@@ -19,7 +19,7 @@ You are a security analyst at a financial services company. Your task is to deve
 ### 2. Prioritization
 - **Objective**: Define the scope of control deployment and prioritize assets based on risk analysis.
 1. **Steps**:
-  - a. **Decide on Assets to Protect**: Based on the risk analysis, determine which assets need protection.
+    a. **Decide on Assets to Protect**: Based on the risk analysis, determine which assets need protection.
   - b. **Create a Prioritized List**: Categorize assets into "must protect," "should protect," and "would like to protect" based on their criticality.
   - c. **Design Defense-in-Depth Control Structure**: Implement multiple layers of security controls to ensure comprehensive protection.
 - **Outcome**: A prioritized list of assets and a defense-in-depth control structure tailored to the organization's needs.
