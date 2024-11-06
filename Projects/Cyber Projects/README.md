@@ -8,8 +8,8 @@ This directory contains a collection of cybersecurity projects and activities th
 
 **Projects**:
 - **Incident Investigation and Response**: Analyzing suspicious files and documenting Indicators of Compromise (IoCs).
-- **Network Security Lab**: Configuring firewalls and monitoring network traffic.
 - **Threat Detection Exercise**: Using security tools to detect and mitigate threats.
+- **Network Security Lab**: Configuring firewalls and monitoring network traffic.
 - **Security Operations Case Study**: Managing security operations and responding to incidents.
 
 ### 2. Information Assurance Projects
