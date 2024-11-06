@@ -18,11 +18,13 @@ This directory contains a collection of programming projects that demonstrate my
 - Python scripting 
 
 ### 2. Python Password Strength Checker and Generator 
-**Description**: Created a Python tool to check the strength of passwords and generate strong, secure passwords.
+**Description**: Developed a Python tool to validate and generate strong passwords based on customizable criteria, ensuring enhanced security through detailed feedback and automatic password generation.
 
-**Technologies**: Python
+**Technologies**: Python, Regular Expressions
 
 **Skills Demonstrated**:
-- Python programming
-- Security best practices
-- User input validation
+- Data validation
+- Regular expressions
+- User input handling
+- Error checking
+- Python scripting
