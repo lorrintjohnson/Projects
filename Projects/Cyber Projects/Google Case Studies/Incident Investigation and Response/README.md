@@ -14,3 +14,10 @@ As a level one SOC analyst at a financial services company, I received an alert 
 
 ## Conclusion
 The file was determined to be malicious based on high detection rates, extensive network activity, and significant behavioral indicators.
+
+**Technologies**: VirusTotal, Pyramid of Pain
+
+**Skills Demonstrated**:
+- Threat Analysis
+- Incident Documentation
+- SOC Operations
