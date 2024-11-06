@@ -53,3 +53,10 @@ You are a security analyst at a financial services company. You receive an alert
 
 ## Conclusion
 After investigating, I found that the suspicious domain was involved in phishing campaigns, affecting several assets as login information was sent via POST requests. By examining the IP address, I also uncovered two more related domains. This investigation shows how crucial it is to thoroughly analyze domains to identify and stop phishing threats. Using tools like Chronicle, I gained valuable insights into malicious activities, protected our assets, and improved our overall cybersecurity.
+
+**Technologies**: Chronicle, VirusTotal
+
+**Skills Demonstrated**:
+- Threat Intelligence Analysis
+- Incident Response
+- Data Analysis
