@@ -11,6 +11,9 @@ Welcome to my professional portfolio! This repository showcases a collection of 
       - Threat Detection and Response
     - **Information Assurance Projects**
       - Cybersecurity Risk Management Case Study
+      - Security Awareness Projects
+          - Cybersecurity Insider Threats Infographic
+          - Mobile Device Security PowerPoint
   - **Programming Projects** 
     - Data Cleansing, Integration, and Automated Reporting
     - Python Password Strength Checker and Generator
