@@ -9,14 +9,14 @@ This directory contains a collection of cybersecurity projects and activities th
 **Projects**:
 - **Incident Investigation and Response**: Analyzing suspicious files and documenting Indicators of Compromise (IoCs).
 - **Threat Detection Exercise**: Using security tools to detect and mitigate threats.
-- **Network Security Lab**: Configuring firewalls and monitoring network traffic.
-- **Security Operations Case Study**: Managing security operations and responding to incidents.
+<!-- - **Network Security Lab**: Configuring firewalls and monitoring network traffic. -->
+<!-- - **Security Operations Case Study**: Managing security operations and responding to incidents. -->
 
 ### 2. Information Assurance Projects
 **Description**: Projects and labs from my Master of Science in Cybersecurity and Information Assurance at the University of Detroit Mercy, demonstrating advanced knowledge in cybersecurity management, risk assessment, and defense strategies.
 
-**Projects**:
+<!-- **Projects**:
 - **x**: xx
 - **x**: xx
 - **Risk Management Case Study**: Implementing risk management processes and conducting risk assessments.
-- **Cyber Defense Operations**: Managing cyber defense operations and responding to security incidents.
+- **Cyber Defense Operations**: Managing cyber defense operations and responding to security incidents. -->
