@@ -1,4 +1,4 @@
-# Incident Investigation and Response Project
+# Incident Investigation and Response
 
 ## Overview
 In this project, I analyzed a suspicious file using VirusTotal and captured details about its related indicators of compromise (IoCs) using the Pyramid of Pain.
