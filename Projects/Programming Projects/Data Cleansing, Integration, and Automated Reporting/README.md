@@ -1,4 +1,4 @@
-# Data Cleansing, Integration, and Automated Reporting Project
+# Data Cleansing, Integration, and Automated Reporting 
 
 ## Overview
 In this project, I performed data cleansing, integration, and automated reporting using multiple datasets related to energy consumption, weather data, and customer service responses. The goal was to create a comprehensive data analysis pipeline that provides valuable insights through automated reports.
