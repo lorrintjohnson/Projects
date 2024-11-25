@@ -4,12 +4,12 @@
 Welcome to my portfolio! This repository showcases a collection of projects and activities I have completed as part of my education and professional development in cybersecurity and information technology. 
 
 ## Directory Structure
-- **Business Intelligence Projects**
+- **Business Intelligence (BI)**
   - **Data Cleansing, Integration, and Automated Reporting**
-- **Information Technology Projects**
+- **Information Technology (IT)**
   - **Custom PC Build**
   - **Python Password Strength Checker and Generator**
-- **Governance, Risk, and Compliance Projects**
+- **Governance, Risk, and Compliance (GRC)**
   - **Cybersecurity Risk Management Case Study**
   - **Incident Investigation and Response**
   - **Security Awareness**
