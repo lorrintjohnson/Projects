@@ -1,0 +1,5 @@
+A control is a process in place, at a company, used to protect from vulnerabilities and data hacks. They are an essential part of the cybersecurity process because controls identify and authenticate all entities seeking access to a system, authorize access to objects that the entity’s level of trust permits, monitor and control activities during the time of access, ensure against unauthorized access or manipulation of data, and ensure against unauthorized manipulation of system objects. 
+
+Control tailoring is a process where control baselines are based on the identification and guidance of common controls. This process is based on how much value should be protected and usually tailors NIST guidelines or some other standard.  
+
+Defense-in-depth is a process where several layers of security controls are placed through the information technology system. If one layer fails to defend against an attack, another takes over. This can sometimes be redundant as multiple layers are recommended so there is no effective prioritization involved.
