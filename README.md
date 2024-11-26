@@ -11,5 +11,5 @@ Welcome to my portfolio! This repository showcases a collection of projects and 
 ### Governance, Risk, and Compliance (GRC)
 - **Cybersecurity Risk Management Case Study**
 - **Incident Investigation and Response**
-- **Security Awareness**
+- **Security Awareness Training**
 - **Threat Detection and Response**
