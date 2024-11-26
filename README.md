@@ -5,11 +5,11 @@ Welcome to my portfolio! This repository showcases a collection of projects and 
 
 ### Business Intelligence (BI)
 - **Data Cleansing, Integration, and Automated Reporting**
-### Information Technology (IT)
-- **Custom PC Build with Software and Hardware Integration**
-- **Python Password Strength Checker and Generator**
 ### Governance, Risk, and Compliance (GRC)
 - **Cybersecurity Risk Management Case Study**
 - **Incident Investigation and Response**
 - **Security Awareness Training**
 - **Threat Detection and Response**
+### Information Technology (IT)
+- **Custom PC Build with Software and Hardware Integration**
+- **Python Password Strength Checker and Generator**
