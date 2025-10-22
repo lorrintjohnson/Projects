@@ -1,4 +1,4 @@
-# Cybersecurity Risk Management Case Study
+# Cybersecurity Risk Management Case Study 
 
 ## Overview
 This project involves developing a comprehensive cybersecurity control framework that encompasses asset identification and threat assessment, prioritization, and control baselines. The goal is to establish an effective control infrastructure that supports the business goals of the organization by protecting its assets against various threats.
