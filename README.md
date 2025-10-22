@@ -1,5 +1,5 @@
 # Projects Repository
-Welcome to my Projects repository. This collection showcases hands-on work I've completed as part of my education, professional development and transition into cybersecurity and GRC.
+This collection showcases hands-on work I've completed as part of my education, professional development and transition into cybersecurity and GRC.
 
 ### Business Intelligence (BI)
 - **Data Cleansing, Integration, and Automated Reporting**
