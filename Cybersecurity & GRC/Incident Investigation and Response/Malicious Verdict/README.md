@@ -1,7 +1,3 @@
-# VirusTotal Report Verdict
-
-## Has this file been identified as malicious? Explain why or why not.
-
 # Malicious Verdict: Yes, the file is malicious.
 
 ## Reasoning
