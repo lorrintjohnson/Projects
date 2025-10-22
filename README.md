@@ -1,4 +1,4 @@
-# Projects Repository
+# Projects 
 This collection showcases hands-on work I've completed as part of my education, professional development and transition into cybersecurity and GRC.
 
 ### Business Intelligence (BI)
